@@ -12,4 +12,4 @@ Dataset has three columns:
 4. Country: The abbreviation of customers countries (e.g bra for Brazil, fra for France etc.)
 5. Age: The age of customers
 
-thanks for your interest in this project :)
+Thanks for your interest in this project :)
